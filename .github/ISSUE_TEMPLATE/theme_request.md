@@ -16,4 +16,4 @@ Add any other context, screenshots, mockups, or info about the theme here.
 ----
 
  - [ ] I have checked to make sure a similar request has not already been proposed
- - [ ] I have checked to made sure this request complies with Vizality's [guidelines](https://github.com/vizality/vizality-community/guidelines)
+ - [ ] I have checked to made sure this request complies with Vizality's [guidelines](https://github.com/vizality/vizality-community/blob/master/GUIDELINES.md)

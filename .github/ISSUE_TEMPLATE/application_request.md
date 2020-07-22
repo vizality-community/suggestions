@@ -22,5 +22,5 @@ A GitHub repoistory link to the plugin or theme. *The plugin or theme must be ho
 ----
 
  - [ ] I have checked to make sure a similar plugin or theme does not already exist for Vizality
- - [ ] I have checked to made sure this plugin or theme complies with Vizality's [guidelines](https://github.com/vizality/vizality-community/guidelines)
+ - [ ] I have checked to made sure this plugin or theme complies with Vizality's [guidelines](https://github.com/vizality/vizality-community/blob/master/GUIDELINES.md)
  - [ ] I am confirming that I am the original creator of this plugin/theme

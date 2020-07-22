@@ -2,7 +2,7 @@
 name: Plugin Request
 about: Request a new plugin
 title: 'Short description of the plugin' 
-labels: 'plugin', 'pending review'
+labels: plugin, pending review
 assignees: ''
 
 ---

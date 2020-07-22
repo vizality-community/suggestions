@@ -1,8 +1,8 @@
 ---
 name: Application Request
 about: Request to have your plugin or theme added to Vizality's community repository
-title: 'Name of the plugin or theme' 
-labels: 'application', 'pending review'
+title: '[Name of the plugin or theme]' 
+labels: application, pending review
 assignees: ''
 
 ---

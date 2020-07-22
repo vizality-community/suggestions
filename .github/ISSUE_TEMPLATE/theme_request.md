@@ -1,7 +1,7 @@
 ---
 name: Theme Request
 about: Request a new theme
-title: 'Short description of the theme' 
+title: '[Short description of the theme]' 
 labels: theme, pending review
 assignees: ''
 

@@ -12,12 +12,12 @@
 
 Want to check out all "officially recognized" plugins and themes created for Vizality by community members? You've come to the right place.
 
-*Please note:* While we do vet all plugin code intiially and periodically, we cannot ensure that they will always be used in a non-malicious way. Just know that you should still only be using these plugins at your own risk.
+*Please note:* While we do vet all plugin code initially and periodically, we cannot ensure that they will always be used in a non-malicious way. Just know that you should still only be using these plugins at your own risk.
 
 ### Get Listed
 
 This is also where you should be if you want to submit your own plugin or theme to be listed on our repository. So once you've create your awesome plugin or theme, you can start the application process by creating an issue [here](https://github.com/vizality/vizality-community/issues/new/choose). Make sure you read Vizality's [guidelines](https://github.com/vizality/vizality-community/blob/master/GUIDELINES.md) to see if it complies first.
 
-### Have an Idea?
+### Share Your Ideas
 
 If you've thought of something that you think would make a great plugin or theme, we'd love to hear about it. Let us know by submitting it [here](https://github.com/vizality/vizality-community/issues/new/choose). Make sure you read Vizality's [guidelines](https://github.com/vizality/vizality-community/blob/master/GUIDELINES.md) to see if it complies first.

@@ -16,9 +16,8 @@ Want to check out all "officially recognized" plugins and themes created for Viz
 
 ### Get Listed
 
-This is also where you should be if you want to submit your own plugin or theme to be listed on our repository.
-To start the application process, create an issue [here](https://github.com/vizality/vizality-community/issues/new/choose). Before doing so, make sure you read Vizality's [guidelines](https://github.com/vizality/vizality-community/blob/master/GUIDELINES.md).
+This is also where you should be if you want to submit your own plugin or theme to be listed on our repository. So once you've create your awesome plugin or theme, you can start the application process bu creating an issue [here](https://github.com/vizality/vizality-community/issues/new/choose). Make sure you read Vizality's [guidelines](https://github.com/vizality/vizality-community/blob/master/GUIDELINES.md) to see if it complies first.
 
 ### Have an Idea?
 
-If you've thought of an idea that you think would make a great plugin or theme, let us know by submitting it [here](https://github.com/vizality/vizality-community/issues/new/choose).
+If you've thought of something that you think would make a great plugin or theme, we'd love to hear about it. Let us know by submitting it [here](https://github.com/vizality/vizality-community/issues/new/choose). Make sure you read Vizality's [guidelines](https://github.com/vizality/vizality-community/blob/master/GUIDELINES.md) to see if it complies first.

@@ -7,10 +7,11 @@ Below you will find some frequently asked questions about various aspects of the
 * [**Vizality**](#user-content-vizality)
   * [Will there ever be a mobile (Android/iOS) version of Vizality?](#user-content-q1)
   * [Is Vizality compatible with other client mod plugins?](#user-content-q2)
+  * [How can I download and start using Vizality?](#user-content-q3)
 * [**Development**](#user-content-development)
-  * [Why is it slow when checking a source in Dev Tools?](#user-content-q3)
+  * [Why is it slow when checking a source in Dev Tools?](#user-content-q4)
 * [**Server**](#user-content-server)
-  * [How do I report another member for inappropriate behavior?](#user-content-q4)
+  * [How do I report another member for inappropriate behavior?](#user-content-q5)
 
 ## Vizality
 

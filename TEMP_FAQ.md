@@ -20,12 +20,16 @@ No, the mobile versions of Discord work completely differently and are not compa
 ### Q2. Is Vizality compatible with other client mod plugins?
 No, Vizality is not directly compatible with other client mod plugins. Although someone could possibly make a plugin for it. We are planning on porting over or recreating popular plugins or plugins by request, however.
 
+### Q3. How can I download and start using Vizality?
+Vizality is currently in the closed alpha testing stage and a handful of new users are getting invited weekly. To get invite, stop in to our Discord server and say hi. Users active on the server showing an interest in the project are much more likely to receive an invite.
+
+
 ## Development
 
-### Q3. Why is it slow when checking a source in Dev Tools?
+### Q4. Why is it slow when checking a source in Dev Tools?
 This seems to be a weird bug. Open Dev Tools Settings (F1), go to the Experiments tab and enable "Automatically pretty print in the Sources Panel" and sources will now load much faster in Dev Tools.
 
 ## Server
 
-### Q4. How do I report another member for inappropriate behavior?
+### Q5. How do I report another member for inappropriate behavior?
 Use the report command in the form of `!report <@user> <reason>`. If you want to include a screenshot, that's even more helpful. Just attach it to the command message.
